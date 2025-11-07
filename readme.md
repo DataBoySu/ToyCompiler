@@ -1,4 +1,4 @@
-# Toy Compiler — CFG → PDA
+# Toy Compiler - CFG → PDA
 
 Minimal practice project for implementing Automata theory into toy logic.
 
